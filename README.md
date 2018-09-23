@@ -1,0 +1,2 @@
+# burn
+Burn website
